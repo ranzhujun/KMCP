@@ -1,4 +1,6 @@
-**5.2制作微课的简单方法**
+
+
+**5.2制作微课的简单方法**
 
 **5.2.1使用手机拍摄微课**
 
@@ -140,6 +142,7 @@ Camtasia Studio的工作界面，大致可以划分为五个部分。
 
 **图5-2-17 存储位置**
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=w0528e4kjit&tiny=0&auto=0" allowfullscreen></iframe>
+
 
 
 
