@@ -139,6 +139,7 @@ Camtasia Studio的工作界面，大致可以划分为五个部分。
 ![](/assets/图片17.png)
 
 **图5-2-17 存储位置**
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=w0528e4kjit&tiny=0&auto=0" allowfullscreen></iframe>
 
 
 
